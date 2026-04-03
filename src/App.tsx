@@ -54,15 +54,10 @@ export default function App() {
           
           <div className="relative max-w-3xl mx-auto mb-8 rounded-2xl overflow-hidden shadow-2xl">
             <ImageWithFallback
-              src="https://images.unsplash.com/photo-1620751878175-79e61cd24b31?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxiYWJ5JTIwbGVhcm5pbmclMjB0byUyMHdhbGslMjBmYWxsaW5nfGVufDF8fHx8MTc3NTEzMDQ4NHww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral"
+              src="/IMG_1058.jpg"
               alt="Малюк вчиться ходити"
               className="w-full h-[400px] object-cover"
             />
-            <div className="absolute inset-0 bg-black/20 flex items-center justify-center">
-              <div className="bg-white/90 backdrop-blur-sm px-8 py-4 rounded-full">
-                <p className="text-2xl font-bold text-red-600">📹 Відео демонстрація</p>
-              </div>
-            </div>
           </div>
 
           <div className="bg-yellow-100 border-2 border-yellow-400 rounded-xl p-6 mb-8">
@@ -83,7 +78,7 @@ export default function App() {
           <div className="grid md:grid-cols-2 gap-8 mb-12">
             <div className="bg-white rounded-xl p-6 shadow-lg">
               <ImageWithFallback
-                src="https://images.unsplash.com/photo-1538332409368-1c73c02e9d97?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxoYXBweSUyMGJhYnklMjBjcmF3bGluZyUyMHNhZmV0eXxlbnwxfHx8fDE3NzUxMzA0ODV8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral"
+                src="/IMG_1057.jpg"
                 alt="Щаслива дитина"
                 className="w-full h-64 object-cover rounded-lg mb-4"
               />
@@ -127,7 +122,7 @@ export default function App() {
           <div className="grid md:grid-cols-2 gap-8 mb-12">
             <div>
               <ImageWithFallback
-                src="https://images.unsplash.com/photo-1548026134-48d168ebcaa6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx0b2RkbGVyJTIwaGVhZCUyMHByb3RlY3Rpb24lMjBwaWxsb3d8ZW58MXx8fHwxNzc1MTMwNDg1fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral"
+                src="/image.png"
                 alt="Дитяча подушка-захист"
                 className="w-full h-full object-cover rounded-2xl shadow-xl"
               />
