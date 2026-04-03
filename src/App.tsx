@@ -326,6 +326,7 @@ export default function App() {
         <p className="text-sm">© 2026 Всі права захищені</p>
         <p className="text-xs text-gray-400 mt-2">Дитяча подушка-захист голови</p>
       </footer>
+      
     </div>
   );
 }
